@@ -1,6 +1,5 @@
 param(
     [int]$Count = 10,
-    [switch]$CopyLast,
     [string]$OutputFile
 )
 
